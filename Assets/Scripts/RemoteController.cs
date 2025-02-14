@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Net.Sockets;
 using System.Threading;
 using System.IO;
